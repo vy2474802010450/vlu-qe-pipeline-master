@@ -1,3 +1,4 @@
+// Authentication function for user login
 function login(user, pass) {
     // Tài khoản bị khóa
     if (user === 'locked') {
