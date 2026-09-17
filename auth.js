@@ -11,7 +11,7 @@ function login(user, pass) {
     }
 
     // Đăng nhập hợp lệ
-    return user === 'admin' && pass === '9999';
+    return user === 'admin' && pass === '123';
 }
 
 module.exports = login;
